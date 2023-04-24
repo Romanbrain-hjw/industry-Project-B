@@ -1,0 +1,32 @@
+609 security related reviews counted
+
+275 comments related to abnormal behaviour accounted for 45% of the total.This part of reviews primarily reflects about the app's functional failure or abnormal background behaviours.Bugs that cause application or system crashes are at risk of being exploited in denial of service attacks.On the other side, battery drain could be a signal triggered by malicious activities.
+The following is the statistics of reporting keywords or tags
+battery       37
+bloatware      1
+bug          211
+crash         26
+Name: counts, dtype: int64
+
+125 comments related to spam accounted for 21% of the total.This part of the reviews may be mainly reporting the problem of inappropriate ads and unnecessary notification. Excessive ads or notifications can affect user experience. Some advertisements may induce users to download other bloatwares, or link to phishing or fake websites, which could further include risks of memory redundancy, privacy leaks and  financial fraud.
+The following is the statistics of reporting keywords or tags
+advertisement    99
+scam              3
+spam             23
+Name: counts, dtype: int64
+
+79 comments related to privacy accounted for 13% of the total.This part of the comments might reflect the problem of excessive permission request. Unreasonable requests for permissions of location, clipboard or camera could directly violate users' privacy and portrait rights. Furthermore, excessive permissions may create vulnerabilities that malicious applications can exploit. 
+The following is the statistics of reporting keywords or tags
+breach         1
+leak           1
+location      23
+permission    54
+Name: counts, dtype: int64
+
+49 comments related to malware accounted for 8% of the total.This part of reviews reports there are malicious activities happening while using the app. It is not ruled out that the users downloaded a modified version from an unofficial platform, or maybe they are just complaining emotionally.
+The following is the statistics of reporting keywords or tags
+hack       26
+malware     2
+virus      21
+Name: counts, dtype: int64
+
