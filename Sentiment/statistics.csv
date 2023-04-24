@@ -1,0 +1,23 @@
+,negative,other,lowRate,otherRate,category
+secretly,192.0,295.0,292.0,195.0,abnormal behaviour
+bloatware,559.0,761.0,1103.0,217.0,abnormal behaviour
+battery,14064.0,25035.0,21492.0,17607.0,abnormal behaviour
+bug,74481.0,127525.0,119639.0,82367.0,abnormal behaviour
+crash,96157.0,133229.0,174669.0,54717.0,abnormal behaviour
+permission,19699.0,23233.0,34433.0,8499.0,privacy
+trojan,146.0,261.0,332.0,75.0,malware
+spyware,668.0,906.0,1256.0,318.0,privacy
+location,76287.0,96247.0,105283.0,67251.0,privacy
+malicious,1029.0,1036.0,1568.0,497.0,malware
+malware,1083.0,1628.0,2035.0,676.0,malware
+virus,3151.0,6330.0,5195.0,4286.0,malware
+scam,46427.0,15935.0,52308.0,10054.0,spam
+phish,641.0,550.0,842.0,349.0,spam
+hack,16862.0,17998.0,20052.0,14808.0,malware
+breach,1348.0,1486.0,2227.0,607.0,privacy
+leak,1365.0,987.0,1627.0,725.0,privacy
+spam,18833.0,10592.0,19819.0,9606.0,spam
+advertisement,57627.0,71265.0,92732.0,36160.0,spam
+adware,301.0,470.0,642.0,129.0,spam
+security,28802.0,107574.0,49222.0,87154.0,general
+concern,139933.0,105193.0,194853.0,50273.0,general
