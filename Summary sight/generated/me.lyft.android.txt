@@ -1,0 +1,33 @@
+1740 security related reviews counted
+
+1063 comments related to privacy accounted for 61% of the total.This part of the comments might reflect the problem of excessive permission request. Unreasonable requests for permissions of location, clipboard or camera could directly violate users' privacy and portrait rights. Furthermore, excessive permissions may create vulnerabilities that malicious applications can exploit. 
+The following is the statistics of reporting keywords or tags
+breach           5
+leak             1
+location      1021
+permission      36
+Name: counts, dtype: int64
+
+378 comments related to spam accounted for 22% of the total.This part of the reviews may be mainly reporting the problem of inappropriate ads and unnecessary notification. Excessive ads or notifications can affect user experience. Some advertisements may induce users to download other bloatwares, or link to phishing or fake websites, which could further include risks of memory redundancy, privacy leaks and  financial fraud.
+The following is the statistics of reporting keywords or tags
+advertisement     11
+scam             306
+spam              61
+Name: counts, dtype: int64
+
+149 comments related to abnormal behaviour accounted for 9% of the total.This part of reviews primarily reflects about the app's functional failure or abnormal background behaviours.Bugs that cause application or system crashes are at risk of being exploited in denial of service attacks.On the other side, battery drain could be a signal triggered by malicious activities.
+The following is the statistics of reporting keywords or tags
+battery    43
+bug        63
+crash      43
+Name: counts, dtype: int64
+
+40 comments related to malware accounted for 2% of the total.This part of reviews reports there are malicious activities happening while using the app. It is not ruled out that the users downloaded a modified version from an unofficial platform, or maybe they are just complaining emotionally.
+The following is the statistics of reporting keywords or tags
+hack         11
+malicious     1
+malware       2
+trojan        4
+virus        22
+Name: counts, dtype: int64
+

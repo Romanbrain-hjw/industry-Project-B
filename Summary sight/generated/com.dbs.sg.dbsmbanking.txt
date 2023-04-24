@@ -1,0 +1,34 @@
+637 security related reviews counted
+
+215 comments related to abnormal behaviour accounted for 34% of the total.This part of reviews primarily reflects about the app's functional failure or abnormal background behaviours.Bugs that cause application or system crashes are at risk of being exploited in denial of service attacks.On the other side, battery drain could be a signal triggered by malicious activities.
+The following is the statistics of reporting keywords or tags
+battery       30
+bloatware      2
+bug           82
+crash        101
+Name: counts, dtype: int64
+
+173 comments related to privacy accounted for 27% of the total.This part of the comments might reflect the problem of excessive permission request. Unreasonable requests for permissions of location, clipboard or camera could directly violate users' privacy and portrait rights. Furthermore, excessive permissions may create vulnerabilities that malicious applications can exploit. 
+The following is the statistics of reporting keywords or tags
+breach          4
+leak            1
+location      105
+permission     61
+spyware         2
+Name: counts, dtype: int64
+
+58 comments related to spam accounted for 9% of the total.This part of the reviews may be mainly reporting the problem of inappropriate ads and unnecessary notification. Excessive ads or notifications can affect user experience. Some advertisements may induce users to download other bloatwares, or link to phishing or fake websites, which could further include risks of memory redundancy, privacy leaks and  financial fraud.
+The following is the statistics of reporting keywords or tags
+advertisement    19
+adware            1
+scam             21
+spam             17
+Name: counts, dtype: int64
+
+6 comments related to malware accounted for 1% of the total.This part of reviews reports there are malicious activities happening while using the app. It is not ruled out that the users downloaded a modified version from an unofficial platform, or maybe they are just complaining emotionally.
+The following is the statistics of reporting keywords or tags
+hack       2
+malware    1
+virus      3
+Name: counts, dtype: int64
+
