@@ -1,0 +1,38 @@
+3684 security related reviews counted
+
+1617 comments related to spam accounted for 44% of the total.This part of the reviews may be mainly reporting the problem of inappropriate ads and unnecessary notification. Excessive ads or notifications can affect user experience. Some advertisements may induce users to download other bloatwares, or link to phishing or fake websites, which could further include risks of memory redundancy, privacy leaks and  financial fraud.
+The following is the statistics of reporting keywords or tags
+advertisement      46
+adware             11
+phish               2
+scam               63
+spam             1495
+Name: counts, dtype: int64
+
+1223 comments related to abnormal behaviour accounted for 33% of the total.This part of reviews primarily reflects about the app's functional failure or abnormal background behaviours.Bugs that cause application or system crashes are at risk of being exploited in denial of service attacks.On the other side, battery drain could be a signal triggered by malicious activities.
+The following is the statistics of reporting keywords or tags
+battery      360
+bloatware     20
+bug          524
+crash        311
+secretly       8
+Name: counts, dtype: int64
+
+198 comments related to privacy accounted for 5% of the total.This part of the comments might reflect the problem of excessive permission request. Unreasonable requests for permissions of location, clipboard or camera could directly violate users' privacy and portrait rights. Furthermore, excessive permissions may create vulnerabilities that malicious applications can exploit. 
+The following is the statistics of reporting keywords or tags
+breach          6
+leak            4
+location       69
+permission    110
+spyware         9
+Name: counts, dtype: int64
+
+125 comments related to malware accounted for 3% of the total.This part of reviews reports there are malicious activities happening while using the app. It is not ruled out that the users downloaded a modified version from an unofficial platform, or maybe they are just complaining emotionally.
+The following is the statistics of reporting keywords or tags
+hack         15
+malicious    21
+malware      47
+trojan        3
+virus        39
+Name: counts, dtype: int64
+
