@@ -1,0 +1,36 @@
+4277 security related reviews counted
+
+230 comments related to abnormal behaviour accounted for 5% of the total.This part of reviews primarily reflects about the app's functional failure or abnormal background behaviours.Bugs that cause application or system crashes are at risk of being exploited in denial of service attacks.On the other side, battery drain could be a signal triggered by malicious activities.
+The following is the statistics of reporting keywords or tags
+battery      100
+bloatware      5
+bug           78
+crash         47
+Name: counts, dtype: int64
+
+90 comments related to malware accounted for 2% of the total.This part of reviews reports there are malicious activities happening while using the app. It is not ruled out that the users downloaded a modified version from an unofficial platform, or maybe they are just complaining emotionally.
+The following is the statistics of reporting keywords or tags
+hack         60
+malicious     8
+malware      11
+trojan        4
+virus         7
+Name: counts, dtype: int64
+
+84 comments related to privacy accounted for 2% of the total.This part of the comments might reflect the problem of excessive permission request. Unreasonable requests for permissions of location, clipboard or camera could directly violate users' privacy and portrait rights. Furthermore, excessive permissions may create vulnerabilities that malicious applications can exploit. 
+The following is the statistics of reporting keywords or tags
+breach         9
+leak           2
+location      22
+permission    45
+spyware        6
+Name: counts, dtype: int64
+
+27 comments related to spam accounted for 1% of the total.This part of the reviews may be mainly reporting the problem of inappropriate ads and unnecessary notification. Excessive ads or notifications can affect user experience. Some advertisements may induce users to download other bloatwares, or link to phishing or fake websites, which could further include risks of memory redundancy, privacy leaks and  financial fraud.
+The following is the statistics of reporting keywords or tags
+advertisement     1
+adware            1
+scam             14
+spam             11
+Name: counts, dtype: int64
+

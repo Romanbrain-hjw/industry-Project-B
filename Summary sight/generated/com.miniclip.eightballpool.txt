@@ -1,0 +1,36 @@
+2169 security related reviews counted
+
+783 comments related to abnormal behaviour accounted for 36% of the total.This part of reviews primarily reflects about the app's functional failure or abnormal background behaviours.Bugs that cause application or system crashes are at risk of being exploited in denial of service attacks.On the other side, battery drain could be a signal triggered by malicious activities.
+The following is the statistics of reporting keywords or tags
+battery       54
+bloatware      3
+bug          608
+crash        115
+secretly       3
+Name: counts, dtype: int64
+
+605 comments related to malware accounted for 28% of the total.This part of reviews reports there are malicious activities happening while using the app. It is not ruled out that the users downloaded a modified version from an unofficial platform, or maybe they are just complaining emotionally.
+The following is the statistics of reporting keywords or tags
+hack         573
+malicious      4
+malware        5
+virus         23
+Name: counts, dtype: int64
+
+565 comments related to spam accounted for 26% of the total.This part of the reviews may be mainly reporting the problem of inappropriate ads and unnecessary notification. Excessive ads or notifications can affect user experience. Some advertisements may induce users to download other bloatwares, or link to phishing or fake websites, which could further include risks of memory redundancy, privacy leaks and  financial fraud.
+The following is the statistics of reporting keywords or tags
+advertisement    170
+adware             3
+phish              1
+scam             355
+spam              36
+Name: counts, dtype: int64
+
+99 comments related to privacy accounted for 5% of the total.This part of the comments might reflect the problem of excessive permission request. Unreasonable requests for permissions of location, clipboard or camera could directly violate users' privacy and portrait rights. Furthermore, excessive permissions may create vulnerabilities that malicious applications can exploit. 
+The following is the statistics of reporting keywords or tags
+breach         4
+leak           1
+location      43
+permission    51
+Name: counts, dtype: int64
+
